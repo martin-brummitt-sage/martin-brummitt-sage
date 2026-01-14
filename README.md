@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning all about Sage Intacct
 - 👯 I’m looking to collaborate on anything I can !!
 - 🤔 I’m looking for help with ensuring alignment with Sage Platform Strategy
+-             in particular adoption of MXS
 - 💬 Ask me about anything
 - 📫 How to reach me: Slack or Teams
 - 😄 Pronouns: He/Him
